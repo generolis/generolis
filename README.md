@@ -1,0 +1,2 @@
+# generolis
+Teknik Komputer
